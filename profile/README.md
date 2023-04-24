@@ -1,4 +1,4 @@
-# LayerX Labs - We are building next-generation web3 products.
+# LayerX Labs - Building next-generation web3 products.
 
 Empowering innovation through hackathons and bounties - our Builder Studio create products and marketplaces that connect developers and organizations for impactful results.
 
