@@ -9,7 +9,7 @@ With a deep understanding of the web3 landscape and a commitment to excellence, 
 ## Our Products 
 
 * [TAIKAI](https://taikai.network) - A platorm to launch, manage and join online, private and offline hackathons.
-* [BEPRO](https://bepro.network) - A web3 Bounty Platform for development/programming Bounties with payment escrow, dispute resolution and multichain support
+* [Bepro Network](https://bepro.network) - A web3 Bounty Platform for development/programming Bounties with payment escrow, dispute resolution and multichain support
 * [dappKit](https://dappkit.dev) - A chain agnostic typescript/javascript framework to develop dapps and interact with Ethereum smart contracts.
 
 ## Contact us 
