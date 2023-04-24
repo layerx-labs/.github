@@ -9,6 +9,10 @@ Empowering innovation through hackathons and bounties - our Builder Hubs connect
 * [TAIKAI](https://taikai.network) - A platorm to launch, manage and join online, private and offline hackathons.
 * [BEPRO](https://bepro.network) - A web3 Bounty Platform for Development Bounties with payment escrow, dispute resolution and multichain support
 * [dappKit](https://dappkit.dev) - A chain agnostic typescript/javascript framework to develop dapps and interact with Ethereum smart contracts.
+* [deHouse](https://dehouse.org/) - A decentralized group of coworking spaces, where ideas come to life, thrive, and flourish. Our community serves as a launchpad for creative potential and fosters a collaborative environment for new ideas to develop that will power the next Tech Companies. Whether you're an entrepreneur, freelancer, or a startup team, we provide the perfect platform to inspire your work, amplify your voice, and facilitate growth. Join us and become part of a vibrant community that drives innovation, creates lasting connections, and delivers real-world impact.
+
+
+Regenerate response
 
 
 ## Contact us 
