@@ -19,10 +19,10 @@ We build AI systems that power products, automate operations, and enable organiz
 ## Our portfolio
 
 - **[TAIKAI](https://taikai.network)** — The leading hackathon and innovation platform
-- **[Garden](https://garden.faikai.network)** — A builder ecosystem
-- **[Raytrade Studio](https://raytrade.studio)** — Market-making infrastructure
-- **[Supercolony](https://supercolony.xyz)** — Network states toolkit
-- **[ChainCast](https://github.com/layerx-labs/chain-cast)** — Blockchain events toolkit
+- **[Garden](https://garden.faikai.network)** — A builder ecosystem for early stage projects
+- **[Raytrade Studio](https://raytrade.studio)** — Platform to manage Market Making and Trading Bots
+- **[Supercolony](https://supercolony.xyz)** — Network states social network
+- **[ChainCast](https://github.com/layerx-labs/chain-cast)** — Ethereeum  events processing toolkit
 - **[BakerFi](https://bakerfi.au)** — AI finance app
 
 ## Work with us
