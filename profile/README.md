@@ -1,18 +1,32 @@
-# LayerX Labs - Building next-generation web3 products.
+# LayerX — The intelligence layer for modern companies.
 
-Empowering innovation through hackathons and bounties - our Builder Studio create products and marketplaces that connect developers and organizations for impactful results.
+We build AI systems that power products, automate operations, and enable organizations to focus on what matters most.
 
-**LayerX Labs**  is a forward-thinking company dedicated to building and promoting web3 products that have a transformative impact on the **workFi** industry. Through innovative solutions and cutting-edge technology, **LayerX Labs** empowers individuals, startups, and established organizations to unlock their full potential and achieve their goals. 
+**LayerX** combines consulting rigor with 7+ years of operational experience shipping products at scale. From strategy to deployment, we design and build end-to-end AI solutions — agents, infrastructure, and full-stack systems — that are secure, scalable, and production-ready.
 
-With a deep understanding of the web3 landscape and a commitment to excellence, **LayerX Labs** is revolutionizing the way businesses operate and helping to shape the future of work. Whether you're looking to streamline your workflow, enhance collaboration, or unlock new growth opportunities,, **LayerX Labs** has the tools and expertise to help you succeed in the ever-evolving web3 landscape.
+- **400+** partnerships
+- **100,000+** users across our platform ecosystem
+- **7+ years** building and operating products
 
-## Our Products 
+## What we do
 
-* [TAIKAI](https://taikai.network) - A platorm to launch, manage and join online, private and offline hackathons.
-* [Bepro Network](https://bepro.network) - A web3 Bounty Platform for development/programming Bounties with payment escrow, dispute resolution and multichain support
-* [dappKit](https://dappkit.dev) - A chain agnostic typescript/javascript framework to develop dapps and interact with Ethereum smart contracts.
+- **Product strategy & positioning** — turning ambitious concepts into market-ready products
+- **Product design** — simplifying complex systems into intuitive experiences
+- **AI engineering** — agents, infrastructure, and full-stack development
+- **Multi-agent systems** — intelligent workflow orchestration for real operations
+- **Enterprise consultancy** — partnering with teams to ship and scale
 
-## Contact us 
+## Our portfolio
 
-Talk wih us today <gm@layerx.xyz> 
+- **[TAIKAI](https://taikai.network)** — The leading hackathon and innovation platform
+- **The Garden** — A builder ecosystem
+- **Raytrade Studio** — Market-making infrastructure
+- **Supercolony** — Network states toolkit
+- **ChainCast** — Blockchain events toolkit
+- **BakerFi** — AI finance app
 
+## Work with us
+
+We partner with companies that want to move fast and build intelligent products.
+
+Talk to us → <gm@layerx.xyz> · [layerx.xyz](https://layerx.xyz)
